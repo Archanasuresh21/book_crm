@@ -1,0 +1,3 @@
+orm query for inserting values
+
+Employee.objects.create()
